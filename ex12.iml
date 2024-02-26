@@ -1,0 +1,12 @@
+fun main(aras: Array<String>)
+val numi: Int = 2
+val num2: Int = 3
+val maiorValor = if (numi > num2) {
+printin(processando...)
+numi
+}else{ 
+printin(processando...)
+num2
+}
+printin("0 maion valor e SmaiorVator")
+}
