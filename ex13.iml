@@ -1,0 +1,16 @@
+fun main(args: Array«String>) (
+val nora =9
+// Usande operador range 
+if (nota in 9 $ so $ 10) {
+printIn ("Fântástico")
+
+else if (nota in 7 5..5 8) {
+printin("Parabéns")
+ else if (nota in 45.. 86) {
+printin("Tem como recuperar")
+} else if (nota in 0(5.. $ 3) {
+printin("Te vejo no proxine ano")
+}else {
+printin("Nota invalida")
+}
+}
