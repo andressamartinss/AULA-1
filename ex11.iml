@@ -1,0 +1,12 @@
+fun main(args: Array<String>) {
+val numi: Int = 2
+val num2: Int = 3
+val maiorValor = if (num1>num2) {
+printine processando.. numi
+} else {
+printin("processando...*)
+num2
+}
+printin("0 maior valor é SmaiorValor*)
+
+}
